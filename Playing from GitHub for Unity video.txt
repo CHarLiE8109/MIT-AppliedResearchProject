@@ -1,0 +1,14 @@
+Playing from GitHub for Unity video player:
+(mp4 files must be less than 25MB)
+
+Browser address to key in to URL field
+
+https://<GitHub username>.GitHub.io/<folder of file>/<video file name>.mp4
+
+Links used:
+
+https://CHarLiE8109.github.io/JFK1/JFK.mp4
+https://CHarLiE8109.github.io/EarthisFlat/EarthisFlat.mp4
+https://CHarLiE8109.github.io/MoonLanding/MoonLanding.mp4
+https://CHarLiE8109.github.io/SpaghettiGod/SpaghettiGod.mp4
+https://CHarLiE8109.github.io/SpacePerspective/SpacePerspective.mp4
